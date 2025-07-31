@@ -9,3 +9,7 @@ in every room a each tile is bit, and they all form a binary string for a specif
 multiple transformations are applied when tile is changed, so this increases the chances to find the right key
 
 good luck!
+
+## How to run?
+
+`python start.py`
